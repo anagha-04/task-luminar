@@ -1,0 +1,197 @@
+.container {
+    width: 900px;
+    height: 1200px;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading {
+    width: 850px;
+    height: 100px;
+    border: 2px double black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    text-align: center;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.summary {
+    width: 850px;
+    height: 30px;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.paragraph {
+    width: 850px;
+    height: 75px;
+    border: 3px dotted black;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(195, 199, 200);
+}
+
+.next-container {
+    width: 900px;
+    height: 250px;
+    /* border: 2px solid black; */
+}
+
+.flex-container {
+    display: flex;
+}
+
+.left-box {
+    width: 420px;
+    height: 600px;
+    /* border: 2px solid black; */
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.right-box {
+    width: 420px;
+    height: 600px;
+    /* border: 2px solid black; */
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+
+.experience-box {
+    width: 420px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.job-title {
+    width: 420px;
+    height: 40px;
+    /* border: 2px solid black; */
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.key-box {
+    width: 400px;
+    height: 90px;
+    border: 2px dashed black;
+    margin-top: 10px;
+    background-color: rgb(196, 201, 202);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 15px;
+}
+
+.edu-box {
+    width: 420px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.skill-box {
+    width: 420px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.tec-skill {
+    width: 420px;
+    height: 20px;
+    /* border: 2px solid black; */
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.skill {
+    display: flex;
+    align-items: center;
+}
+
+.progress-bar {
+    width: 300px;
+    height: 15px;
+    background-color: #ccc;
+    margin-left: 10px;
+}
+
+.progress {
+    height: 15px;
+    background-color: #333;
+}
+
+.language-box {
+    width: 420px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.project-box {
+    width: 420px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.description-box {
+    width: 385px;
+    height: 80px;
+    border: 2px dashed black;
+    margin-top: 10px;
+    background-color: rgb(205, 209, 210);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 2px;
+}
+
+.activity-box {
+    width: 420px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+fieldset {
+    border: 2px solid black;
+}
